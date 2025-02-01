@@ -10,7 +10,7 @@
 		"dropdown.background": "#1E1E1E",
 		"dropdown.border": "#25ff21b5",
 		"widget.border": "#25ff21b5",
-		"widget.shadow": "#25ff21b5",
+		"widget.shadow": "#25ff2158",
 		// "list.errorForeground": "#00000000",
 		"gitDecoration.addedResourceForeground": "#97ff56",
 		"gitDecoration.modifiedResourceForeground": "#80f0ff",
@@ -38,12 +38,9 @@
 	"semanticTokenColors": {
 		"keyword": "#c88cdc",
 		"namespace": "#96be78",
-		"variable": "#BBBBBB",
-		"variable.definition": "#BBBBBB",
 		"variable.defaultLibrary": "#FFC86E",
 		"type": "#71bbd2",
 		"type.defaultLibrary": "#c88cdc",
-		"parameter": "#BBBBBB",
 		"annotation": "#FFC86E",
 		"interface": "#71bbd2",
 		"class": "#71bbd2",
@@ -125,12 +122,6 @@
 		},
 		{
 			"scope": "support.type",
-			"settings": {
-				"foreground": "#ff9696"
-			}
-		},
-		{
-			"scope": "variable.other.property",
 			"settings": {
 				"foreground": "#ff9696"
 			}
