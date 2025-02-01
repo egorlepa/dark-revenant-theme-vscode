@@ -1,0 +1,199 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Dark Revenant",
+	"colors": {
+		"focusBorder": "#00000000",
+		"badge.background": "#028d00",
+		"activityBarBadge.background": "#028d00",
+		"button.background": "#028d00",
+		"button.hoverBackground": "#03ab00",
+		"dropdown.background": "#1E1E1E",
+		"dropdown.border": "#25ff21b5",
+		"widget.border": "#25ff21b5",
+		"widget.shadow": "#25ff21b5",
+		// "list.errorForeground": "#00000000",
+		"gitDecoration.addedResourceForeground": "#97ff56",
+		"gitDecoration.modifiedResourceForeground": "#80f0ff",
+		"gitDecoration.stageModifiedResourceForeground": "#80f0ff",
+		"gitDecoration.renamedResourceForeground": "#80f0ff",
+		"gitDecoration.deletedResourceForeground": "#ff6b6b",
+		"gitDecoration.stageDeletedResourceForeground": "#ff6b6b",
+		"gitDecoration.untrackedResourceForeground": "#ff6b6b",
+		"textLink.foreground": "#61afe1",
+		"errorForeground": "#ff5c7c",
+		"editorCursor.foreground": "#F8F8F2",
+		"editor.background": "#1E1E1E",
+		"sideBar.background": "#1E1E1E",
+		"activityBar.background": "#1E1E1E",
+		"titleBar.activeBackground": "#1E1E1E",
+		"titleBar.inactiveBackground": "#1E1E1E",
+		"statusBar.background": "#1E1E1E",
+		"menu.background": "#1E1E1E",
+		"peekViewEditor.background": "#252525",
+		"sideBar.border": "#646464",
+		"editor.lineHighlightBackground": "#2a2a2a",
+		"editor.lineHighlightBorder": "#00000000"
+	},
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"keyword": "#c88cdc",
+		"namespace": "#96be78",
+		"variable": "#BBBBBB",
+		"variable.definition": "#BBBBBB",
+		"variable.defaultLibrary": "#FFC86E",
+		"type": "#71bbd2",
+		"type.defaultLibrary": "#c88cdc",
+		"parameter": "#BBBBBB",
+		"annotation": "#FFC86E",
+		"interface": "#71bbd2",
+		"class": "#71bbd2",
+		"enum": "#71bbd2",
+		"property": "#BBBBBB",
+	},
+	"tokenColors": [
+		{
+			"scope": "comment",
+			"settings": {
+				"foreground": "#808080"
+			}
+		},
+		{
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#c88cdc"
+			}
+		},
+		{
+			"scope": "keyword.operator",
+			"settings": {
+				"foreground": "#afb9c3"
+			}
+		},
+		{
+			"scope": "storage",
+			"settings": {
+				"foreground": "#c88cdc"
+			}
+		},
+		{
+			"scope": "string",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "number",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "variable.parameter",
+			"settings": {
+				"foreground": "#61afe1"
+			}
+		},
+		{
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#ffc86e"
+			}
+		},
+		{
+			"scope": "support.function",
+			"settings": {
+				"foreground": "#ffc86e"
+			}
+		},
+		{
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "support.constant",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"foreground": "#ff9696"
+			}
+		},
+		{
+			"scope": "variable.other.property",
+			"settings": {
+				"foreground": "#ff9696"
+			}
+		},
+		{
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "entity.name.namespace",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "entity.name.scope-resolution",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "entity.name.section",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#ff9696"
+			}
+		},
+		{
+			"scope": "entity.name.label",
+			"settings": {
+				"foreground": "#96be78"
+			}
+		},
+		{
+			"scope": "entity.name.function-call",
+			"settings": {
+				"foreground": "#ffc86e"
+			}
+		},
+		{
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"foreground": "#ffc86e"
+			}
+		},
+		{
+			"scope": "text",
+			"settings": {
+				"foreground": "#afb9c3"
+			}
+		},
+		{
+			"scope": "text source",
+			"settings": {
+				"foreground": "#afb9c3"
+			}
+		},
+	]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "dark-revenant-theme",
+  "displayName": "Dark Revenant Theme",
+  "description": "A resurrected force of pure coding dominance. Code like the undead — relentless, unbroken.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Revenant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark_revenant.json"
+      }
+    ]
+  }
+}
