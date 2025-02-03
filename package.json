@@ -2,7 +2,7 @@
   "name": "dark-revenant-theme",
   "displayName": "Dark Revenant Theme",
   "description": "A resurrected force of pure coding dominance. Code like the undead — relentless, unbroken.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/egorlepa/dark-revenant-theme-vscode.git"
